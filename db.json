@@ -11,6 +11,30 @@
     {
       "item": "rice",
       "id": 3
+    },
+    {
+      "item": "apples",
+      "id": 4
+    },
+    {
+      "item": "mangoes",
+      "id": 5
+    },
+    {
+      "item": "sugar",
+      "id": 6
+    },
+    {
+      "item": "beans",
+      "id": 7
+    },
+    {
+      "item": "guava",
+      "id": 8
+    },
+    {
+      "item": "pear",
+      "id": 9
     }
   ]
 }
